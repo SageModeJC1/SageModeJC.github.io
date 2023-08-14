@@ -1,4 +1,5 @@
-# Bold ## Ctrl+B ** **
+# Bold  
+### Ctrl+B ** **
 
 
 Bold	** ** 	Ctrl+B                            **This is bold text**
