@@ -1,8 +1,7 @@
 # Bold  
 ### Ctrl+B ** **
 
-
-Bold	** ** 	Ctrl+B   **This is bold text**
+**This is bold text**
 Italic	 _ _  Ctrl+I                            _This text is italicized_
 Strikethrough	~~ ~~ 	                          ~~This was mistaken text~~
 Bold and nested italic  	** ** and _ _	None	  **This text is _extremely_ important**
