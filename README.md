@@ -1,6 +1,4 @@
-# heading 1
-## heading 2
-### heading 3
+# Bold ## Ctrl+B ** **
 
 
 Bold	** ** 	Ctrl+B                            **This is bold text**
